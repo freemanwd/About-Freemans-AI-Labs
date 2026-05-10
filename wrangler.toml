@@ -1,0 +1,5 @@
+name = "about-freemans-ai-labs"
+compatibility_date = "2025-01-01"
+
+[assets]
+directory = "./"
